@@ -5,7 +5,7 @@ Further information how to run the experiments can be found under `agent_stable_
 
 1. [Requirements](#Requirements)
 1. [Experiments](#Experiments)
-1. [Turtlebot initialization and controls](#Turtlebot initialization)
+1. [Turtlebot initialization and controls](#Turtlebot initialization and controls)
 1. [Scenarios](#Scenarios)
 
 <a name="Requirements"></a>
