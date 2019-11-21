@@ -3,6 +3,9 @@
 Train agent in Doom game, which can then be transferred to Turtlebot robot with different action space. 
 Further information how to run the experiments can be found under `agent_stable_baselines`.
 
+Video of a fully trained agent.
+https://streamable.com/s/6ji1l
+
 1. [Requirements](#Requirements)
 1. [Experiments](#Experiments)
 1. [Turtlebot initialization and controls](#turtlebot-initialization-and-controls)
