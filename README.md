@@ -36,13 +36,13 @@ On the desktop computer, run command:
 `roscore`
 
 On Turtlebot (can be done via ssh), to initialize the subscribers and publishers, run command:   
-`roslaunch turtlebot3_bringup turtlebot3_doom.launch`
+`roslaunch turtlebot3_bringup turtlebot3_robot.launch`
 
 To communicate with the Turtlebot synchronously while using stable baselines, navigate to `python_scripts/` on Turtlebot and run:  
 `python turtlebot_receiver.py`
 
 Robot controls during the training (Controlled from cv2 screen):  
-* wasd keys - Manual controlling between episodes
+* wasd keys - Manual position initialization between episodes
 * space - Stops the robot, when controlling manually between episodes
 * enter - Starts the next episode
 * p - Gives reward during the training
